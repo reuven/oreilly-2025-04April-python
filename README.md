@@ -1,6 +1,6 @@
 # Notes and programs from "First steps with Python"
 
-This repo contains the Jupyter notebook + files from my training for O'Reilly in Feb-March 2025.  It'll remain open, so you can review the material later on.
+This repo contains the Jupyter notebook + files from my training for O'Reilly in April 2025.  It'll remain open, so you can review the material later on.
 
 Enjoy!
 
