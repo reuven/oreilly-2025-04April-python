@@ -1,4 +1,4 @@
-print(f'Hello from {__name__}!')
+print(f'Hello from {__name__}!')  # __name__ is a variable, same as mymod.__name__ outside 
 
 x = 100
 
